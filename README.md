@@ -1,6 +1,5 @@
 # Fake News Detection with Deep Learning Models
-
-![Fake-news-v2-5](https://github.com/ikoghoemmanuell/Bizstech-Msc.-Cybersecurity-/assets/102419217/ddc045d5-73ec-418b-a3e9-6b24b4fb5374)
+![Fake-news-v2-5](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/3ad4934f-d3ec-4a35-b492-ff3d97d9f253)
 
 # 1.0 Introduction
 
