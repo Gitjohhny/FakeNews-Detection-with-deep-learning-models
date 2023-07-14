@@ -1,5 +1,5 @@
-# Fake News Detection with Deep Learning Models
-![Fake-news-v2-5](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/3ad4934f-d3ec-4a35-b492-ff3d97d9f253)
+# Fake News Detection with Deep Learning Models               [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Fake-News-Detection-App)
+![Fake-news-v2-5](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/3ad4934f-d3ec-4a35-b492-ff3d97d9f253)  
 
 # 1.0 Introduction
 
@@ -91,9 +91,9 @@ model = AutoModelForSequenceClassification.from_pretrained(checkpoint, num_label
 # 4.0 Next Steps
 After training the model, the next steps would be to evaluate its performance, fine-tune further if necessary, and deploy the model for practical use. You can explore different deployment options such as building a web application using frameworks like Streamlit or Gradio. This would allow users to interact with the model and make predictions on new text inputs. For this project, I used streamlit.
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Sentiment-analysis-WebApp)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Fake-News-Detection-App)
 
-screenshot picture
+![fakenewsappgif](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/18f793bb-d507-4476-b4c8-374c7a7a2809)
 
 
 # 5.0 Conclusion
