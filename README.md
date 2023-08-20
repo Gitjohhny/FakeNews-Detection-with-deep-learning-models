@@ -1,4 +1,4 @@
-# Fake News Detection with Deep Learning Models [![Streamlit App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Fake-News-Detection-App)
+# Fake News Detection with Deep Learning Models 
 
 ![Fake-news-v2-5](https://github.com/Gitjohhny/FakeNews-Detection-with-deep-learning-models/assets/110716071/3ad4934f-d3ec-4a35-b492-ff3d97d9f253)
 
